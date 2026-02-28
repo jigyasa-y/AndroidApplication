@@ -1,6 +1,6 @@
 import React from 'react';
 import Breadcrumb from './Breadcrumb';
-import Rating from './rating';
+import Rating from './Rating';
 import CustomerReviews from './CustomerReviewes';
 import FooterMenu from "./FooterMenu";
 import BrandFooter from './BrandFooter';
